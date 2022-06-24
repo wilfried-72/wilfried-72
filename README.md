@@ -111,7 +111,7 @@
 
 
   
-
+ <p align="center">  
 ![xDrKush GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfried-72&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfried-72&layout=compact&show_icons=true&theme=github_dark)
-
+</p>
