@@ -3,7 +3,7 @@
 <h3 align="center">💬  📫 How to reach me:</h3>
 <p align="center">  
 <a target="_blank" href="https://www.linkedin.com/in/wilfried-zanni/">
-  <img background-color="white" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img color="white" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
 
