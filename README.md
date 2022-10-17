@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm liwza</h1>
 
 <h3 align="center">📫 How to reach me:</h3>
+
 <p align="center">  
 <a target="_blank" href="https://www.linkedin.com/in/wilfried-zanni/">
   <img alt="LinkdeIN" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
@@ -8,9 +9,10 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center" style=“background-color:white" >   
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>       </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>    
@@ -40,9 +42,12 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
+  <a href="https://php.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
 
- <p align="center"> 
+<p align="center"> 
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>       </a>
     <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> 
@@ -50,7 +55,7 @@
   </a> 
 </p>
 
- <p align="center"> 
+<p align="center"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -62,26 +67,29 @@
   </a>
 </p>
 
- <p align="center"> 
+<p  align="center"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
-     <a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer">
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
+  </a>
+  <a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
 
- <p align="center"> 
+<div align="center"> 
   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
   </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-</p>
+</div>
 
  <p align="center">  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -122,6 +130,7 @@
   </a> -->
 
 <h3 align="center">Static GitHub:</h3>
+<div align="center"> </div>
 
 <div align="center"> 
 
